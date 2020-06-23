@@ -1853,6 +1853,10 @@ a.tab-label.active-btn {
 }
 .cover-header {
   height:750px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 
